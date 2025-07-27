@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Loharanontsoanael
+- 👋 Hi, I’m @Loharanontsoa Sinael
 - 👀 I’m interested in web and mobile application developpement
-- 🌱 I’m currently learning A MERN STACK and Flutter
+- 🌱 I’m currently learning A MERN STACK and React Native 
 - 📫 You can contact me on :  loharanontsoasn@gmail.com
 
 
