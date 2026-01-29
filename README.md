@@ -42,7 +42,7 @@
     <a href="mailto:loharanontsoasn@gmail.com">
       <img src="https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="[https://linkedin.com/in/Loharanontsoasinae](http://linkedin.com/in/lalaharinaivo-sinaël-loharanontsoa-222000392)l">
+    <a href="http://linkedin.com/in/lalaharinaivo-sinaël-loharanontsoa-222000392">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://twitter.com/Loharanontsoasinael">
