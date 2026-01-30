@@ -51,9 +51,7 @@
   </p>
   <br />
   <!-- Footer Stats -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=loharanontsoanael&show_icons=true&theme=default&hide_border=true&bg_color=020617&title_color=10b981&icon_color=10b981&text_color=ffffff" alt="Stats" />
-  </p>
+
 </div>
 
 
